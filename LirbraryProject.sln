@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LirbraryProject", "LirbraryProject\LirbraryProject.csproj", "{CFCEA250-8346-4496-BEB3-1D067AF1CC1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFCEA250-8346-4496-BEB3-1D067AF1CC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCEA250-8346-4496-BEB3-1D067AF1CC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCEA250-8346-4496-BEB3-1D067AF1CC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCEA250-8346-4496-BEB3-1D067AF1CC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {896D8675-6D2B-4B0C-B0EA-D5CE614BA4B1}
+	EndGlobalSection
+EndGlobal
